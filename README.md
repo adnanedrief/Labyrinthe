@@ -17,7 +17,7 @@ https://www.codeblocks.org/downloads/
 
 Puis Cliquer sur le fichier de type CBP nommé : Labyrinthe-Finale
 
-#Captures d'écran 
+# Captures d'écran 
 
 ## L'interface Prinicpale :  ## 
 
