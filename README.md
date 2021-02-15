@@ -5,13 +5,13 @@ Ce projet utilise l'algorithme de fusion aléatoire des chemins (Randomized Krus
 
 # Installation
 
-Cloner ce repo .
+1) Cloner ce repo .
 
-Installer la bibliothèque SDL via : 
+2) Installer la bibliothèque SDL via : 
 
 https://www.libsdl.org/release/SDL-1.0.1-mingw32.tar.gz
 
-Installer le Codeblocks via : 
+3) Installer le Codeblocks via : 
 
 https://www.codeblocks.org/downloads/
 
