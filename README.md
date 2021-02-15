@@ -1,7 +1,7 @@
 # Labyrinthe
 
 Implémentation d'un Labyrinthe avec Langage C avec la bibliothèque SDL .
-Ce projet utilise algorithme de fusion aléatoire des chemins (Randomized Kruskal's algorithm ) pour générer le labyrinthe parfait et algorithme de  recherche en profondeur  recursive ( DFS recursive ) pour résoudre le labyrinthe. 
+Ce projet utilise algorithme de fusion aléatoire des chemins (Randomized Kruskal's algorithm ) pour générer un  labyrinthe parfait et l'algorithme de  recherche en profondeur  recursive ( DFS recursive ) pour le résoudre . 
 
 # Installation
 
@@ -19,10 +19,10 @@ Puis Cliquer sur le fichier de type CBP nommé : Labyrinthe-Finale
 
 #Captures d'écran 
 
-## L'interface Prinicpale 
+## L'interface Prinicpale :  ## 
 
 
-## La génération Seulement : 
+## La génération Seulement :  ##
 
 
-## La génération et la résolution : 
+## La génération et la résolution :  ##
