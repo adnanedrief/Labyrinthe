@@ -19,18 +19,18 @@ Puis Cliquer sur le fichier de type CBP nommé : Labyrinthe-Finale
 
 # Captures d'écran 
 
-## L'interface Prinicpale :  ## 
+## L'interface Prinicpale : ## 
 
 <img src="https://github.com/adnanedrief/Labyrinthe/blob/main/Menu.png" width="425"/>
 
-## La génération Seulement :  ##
-<br>Une entrée aléatoire avec deux sorties fixe ! <br><br><br>
+## La génération Seulement : ##
+<br>Une entrée aléatoire avec deux sorties fixe ! <br>
 </table><tr>
   <td><img src="https://github.com/adnanedrief/Labyrinthe/blob/main/labyrinthe.png" width="425"/></td>
   <td><img src="https://github.com/adnanedrief/Labyrinthe/blob/main/labyrinthe2.png" width="425"/></td> 
 </tr></table>
-## La génération et la résolution :  ##
-<br>A chaque fois il choisit une sortie différente ! <br><br>
+## La génération et la résolution : ##
+<br>A chaque fois il choisit une sortie différente ! <br>
 </table><tr>
   <td><img src="https://github.com/adnanedrief/Labyrinthe/blob/main/solution1.png" width="425"/></td>
   <td><img src="https://github.com/adnanedrief/Labyrinthe/blob/main/solution2.png" width="425"/></td>
