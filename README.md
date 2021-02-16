@@ -25,7 +25,7 @@ Puis Cliquer sur le fichier de type CBP nommé : Labyrinthe-Finale
 
 ## La génération Seulement :  ##
 <br>Une entrée aléatoire avec deux sorties fixe ! <br><br><br>
-<img src="https://github.com/adnanedrief/Labyrinthe/blob/main/labyrinthe.png" width="425"/> <img src="https://github.com/adnanedrief/Labyrinthe/blob/main/labyrinthe2.png" width="425"/> 
+<img src="https://github.com/adnanedrief/Labyrinthe/blob/main/labyrinthe.png" width="425"/><img src="https://github.com/adnanedrief/Labyrinthe/blob/main/labyrinthe2.png" width="425"/> 
 
 ## La génération et la résolution :  ##
 <br>A chaque fois il choisit une sortie différente ! <br><br>
