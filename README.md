@@ -30,3 +30,5 @@ Puis Cliquer sur le fichier de type CBP nommé : Labyrinthe-Finale
 ## La génération et la résolution :  ##
 <br>A chaque fois il choisit une sortie différente ! <br><br>
 <img src="https://github.com/adnanedrief/Labyrinthe/blob/main/solution1.png" width="425"/> <img src="https://github.com/adnanedrief/Labyrinthe/blob/main/solution2.png" width="425"/>
+
+PS: c'était un projet academique réaliser par moi ( @adnanedrief  ) et  , il n'est pas 100% obtimale , donc vous pouvez l'améliorer par exemple remplacer la solution avec le  DFS par Dijkstra ... 
