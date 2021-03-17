@@ -24,11 +24,11 @@ Puis Cliquer sur le fichier de type CBP nommé : Labyrinthe-Finale
 <img src="https://github.com/adnanedrief/Labyrinthe/blob/main/Menu.png" width="425"/>
 
 ## La génération Seulement : ##
-<br>Une entrée aléatoire avec deux sorties fixe ! <br>
+<br>Une entrée aléatoire avec deux sorties fixes ! <br>
 <img src="https://github.com/adnanedrief/Labyrinthe/blob/main/labyrinthe.png" width="425"/> <img src="https://github.com/adnanedrief/Labyrinthe/blob/main/labyrinthe2.png" width="425"/>
 ## La génération et la résolution : ##
 <br>A chaque fois il choisit une sortie différente ! <br>
 <img src="https://github.com/adnanedrief/Labyrinthe/blob/main/solution1.png" width="425"/> <img src="https://github.com/adnanedrief/Labyrinthe/blob/main/solution2.png" width="425"/>
 
 
-PS: c'était un projet academique réaliser par moi[@adnanedrief](https://github.com/adnanedrief) et  [@khaoula-bouzraf](https://github.com/khaoula-bouzraf) , il n'est pas 100% obtimale , donc vous pouvez l'améliorer par exemple remplacer la solution avec le  DFS par Dijkstra ...  
+PS: c'était un projet academique réalisé par moi[@adnanedrief](https://github.com/adnanedrief) et  [@khaoula-bouzraf](https://github.com/khaoula-bouzraf) , il n'est pas 100% obtimale , donc vous pouvez l'améliorer par exemple remplacer la solution avec le  DFS par Dijkstra ...  
